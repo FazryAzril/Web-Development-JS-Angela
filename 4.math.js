@@ -65,9 +65,7 @@ else {
  * ! (!) as NOT
  */
 
-/**
- * ? My Solution
- */
+
  var weight = prompt("Please insert your weight in kg");
  var height = prompt("Height in m, including decimal points");
  
@@ -92,9 +90,7 @@ else {
  }
  
 
- /**
-  * ? Classmates solution
-  */
+
 
   function bmiCalculator (weight, height) {
 
@@ -120,9 +116,7 @@ else {
 
 // Leap year exercise 
 
- /**
- * ! My solution 1
- */
+
 
  var year = prompt("Determine a leap year. Insert any year below.");
 
@@ -160,9 +154,7 @@ else {
 //
 
 
-/**
-* ! My solution 2
-*/
+
 
   function isLeap(year) { 
         
@@ -183,9 +175,7 @@ else {
 //
 
 
-/**
- * ! Angela's solution
-*/
+
 
 function leapYear(year) {
     if (year % 4 === 0) {
